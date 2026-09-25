@@ -40,6 +40,7 @@ echo "trying a branch" >> teams/<team>/yourname.txt
 git add .
 git commit -m "Work on my branch"
 ```
+
 **Done when:** `git branch` shows your new branch.
 
 ---
